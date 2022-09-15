@@ -8,6 +8,15 @@
         "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
         "version" : "5.6.2"
       }
+    },
+    {
+      "identity" : "handyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alibaba/HandyJSON.git",
+      "state" : {
+        "revision" : "dcf39cf062680ffa4fd0acb7f9117a97755c113f",
+        "version" : "5.0.2"
+      }
     }
   ],
   "version" : 2
